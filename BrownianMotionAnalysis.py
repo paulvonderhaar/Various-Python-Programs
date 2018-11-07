@@ -1,3 +1,4 @@
+def main():
 	DataIn=open("BrownianMotionData.txt","r")
 	data=[[]]
 	i=0
